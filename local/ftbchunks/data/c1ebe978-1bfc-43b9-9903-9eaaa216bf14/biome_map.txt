@@ -1,0 +1,7 @@
+#008 minecraft:desert
+#19B minecraft:desert_hills
+#010 minecraft:forest
+#3DC minecraft:plains
+#5FF minecraft:river
+#67B minecraft:savanna
+#774 minecraft:sunflower_plains
