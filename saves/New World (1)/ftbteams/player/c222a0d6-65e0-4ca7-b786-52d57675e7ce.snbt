@@ -1,0 +1,20 @@
+{
+	id: "c222a0d6-65e0-4ca7-b786-52d57675e7ce"
+	type: "player"
+	player_name: "poubeIIe"
+	ranks: {
+		c222a0d6-65e0-4ca7-b786-52d57675e7ce: "owner"
+	}
+	properties: {
+		"ftbchunks:allow_explosions": 0b
+		"ftbteams:display_name": "poubeIIe"
+		"ftbteams:color": "#59FF69"
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbteams:description": ""
+		"ftbteams:free_to_join": 0b
+		"ftbchunks:allow_fake_players": 1b
+	}
+	message_history: [ ]
+	extra: { }
+}
