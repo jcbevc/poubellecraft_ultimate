@@ -8,7 +8,7 @@
 	properties: {
 		"ftbchunks:allow_explosions": 0b
 		"ftbteams:display_name": "poubeIIe"
-		"ftbteams:color": "#59FF91"
+		"ftbteams:color": "#59FF63"
 		"ftbchunks:block_edit_mode": "allies"
 		"ftbchunks:block_interact_mode": "allies"
 		"ftbteams:description": ""

@@ -1,6 +1,6 @@
 === FTB Ranks ===
 
-Last README file update: Thu Apr 20 18:56:37 CEST 2023
+Last README file update: Fri Apr 21 20:57:10 CEST 2023
 Wiki: https://www.notion.so/feedthebeast/FTB-Mod-Documentation-da2e359bad2449459d58d787edda3168
 To refresh this file, run /ftbranks refresh_readme
 
@@ -294,6 +294,8 @@ command.cofh.repair.targets
 command.cofh.workbench
 command.cofh.zap
 command.cofh.zap.targets
+command.compactcrafting
+command.compactcrafting.test
 command.config
 command.config.showfile
 command.config.showfile.mod

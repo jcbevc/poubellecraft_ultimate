@@ -1,0 +1,14 @@
+#008 minecraft:desert
+#19B minecraft:desert_hills
+#70E atmospheric:dunes
+#179 atmospheric:flourishing_dunes
+#07C byg:mojave_desert
+#3DC minecraft:plains
+#3AA byg:red_rock_highlands
+#090 byg:red_rock_lowlands
+#7AA byg:red_rock_mountains
+#5FF minecraft:river
+#67B minecraft:savanna
+#706 minecraft:savanna_plateau
+#12E byg:shrublands
+#6BD byg:wooded_red_rock_mountains
